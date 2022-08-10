@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_back">welcome back</string>
+    <string name="enter_your_email_id">Enter your email id</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="login">login</string>
+    <string name="new_user_want_to_sign_in">New User! Want To Sign In ?</string>
+    <string name="new_user">New User</string>
+    <string name="nice_to_see_you_here">Nice To See You Here</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password_">Enter Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="want_to_login">Want To Login ?</string>
+</resources>
